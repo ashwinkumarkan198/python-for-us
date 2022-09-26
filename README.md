@@ -1,6 +1,8 @@
 # python-for-us
-python programs solved
+#python programs solved
 string formatting using python , converting number to decimal,octal,hexadecimal and binary forms 
+
+
 def print_formatted(number):
     # your code goes here
     w=len((bin(number))[2:])
